@@ -1,12 +1,7 @@
-# monkeyjpg.github.io
 
 ```
 Stay humble. Stack sats.
                  Matt Odell
-```
-
-```
-Tylko Bitcoin. Nigdy shitcoin.
 ```
 
  
@@ -17,6 +12,11 @@ To jest kompendium mojej wiedzy o Bitcoinie. Zapis mojej podróży wgłąb król
 Tworzę tą stronę dla moje rodziny, przyjaciół, znajomych i nieznajomych oraz samego siebie. Chcę usystematyzować moje źródła, przekazać je w spójny sposób innym tak by mogli skorzystać z moich doświadczeń, w tym uniknąć moich błędów.
 
 Proof of work.
+
+```
+Tylko Bitcoin. Nigdy shitcoin.
+```
+
 #
 Jeżeli chcesz zrozumieć czym jest Bitcoin i jaki ma i może mieć w przyszłości wpływ na świat, nie możesz ograniczac się do śledzenia ceny. Tak robi obecnie znakomita większość osób, które są w ogóle świadome istnienia Bitcoina. Czerpią też widzę z popularnych mediów - źródła półprawdy i gównoprawdy. 
 
