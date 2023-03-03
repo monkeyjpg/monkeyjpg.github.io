@@ -36,18 +36,35 @@ You take the red pill - you stay in Wonderland and I show you how deep the rabbi
 #
 ### Ekonomia
 #### Książki
+Przeczytane
+* [Ekonomia w jednej lekcji - Henry Hazlitt](https://www.mises.sklep.pl/ksiazki/26-ekonomia-w-jednej-lekcji-oprawa-twarda.html) - Jak nazwa wskazuje. Przystępna książka tłumacząca podstawowe mechanizmy ekonomii z punktu widzenia szkoły austriackiej.
+* [Etyka produkcji pieniądza - Jörg Guido Hülsmann](https://www.mises.sklep.pl/ksiazki/39-etyka-produkcji-pieniadza-jorg-guido-hulsmann.html) - Teoria pieniądza wg szkoły austriackiej. Trudniejsza ale nadal dla ludzi.
+* []() - 
+
+
+
+
 #### Podcasty
 #### Newslettery
 #### WWW
 #
 ### Bitcoin
 #### Książki
+Przeczytane
+* [Standard Bitcoina - Saifedean Ammous](https://www.ceneo.pl/99071515#) - Lektura obowiązkowa. Najlepsze wprowadzenie.
+* [21 Lessons: What I’ve Learned From Falling Down the Bitcoin Rabbit Hole -Gigi](https://www.swanbitcoin.com/21lessons/) - Gigi pisze w sposób bardzo czysty i jasny. Przystepna pozycja dla pogłębienia wiedzy. Można pobrać darmowy e-book i mp3 (fantastycznie czyta Guy Swann) albo [kupić od autora](https://dergigi.com/)
+* [Inventing Bitcoin -Yan Pritzke](https://www.swanbitcoin.com/inventing-bitcoin/) - Protokól Bitcoina rozebrany na pojedyncze klocki i poskładany krok po kroku, tak żeby był zrozumiały dla każdego. Można pobrać darmowy e-book i mp3 (Guy Swann)
+* [Mastering Bitcoin 2nd Edition -Andreas M. Antonopoulos](https://github.com/bitcoinbook/bitcoinbook) - Bardziej techniczna ksiązka ale nadal przystępna. 
+
+Do przeczytania
+* [Standard pieniądza dekretowego -Saifedean Ammous](https://www.ceneo.pl/99071515#) - Kontynuacja standardu Bitcoina, tym razem o pieniądzu 'fiat'
+
 #### Podcasty
 #### Newslettery
 #### WWW
 * [Bitcoiner.Guide](https://bitcoiner.guide/) - Zbiór źródeł stworzony przez BitcoinQ+A
 * [Timechain Calendar](https://timechaincalendar.com/) - Podsumowanie stanu sieci Bitcoin na jednym widgecie
-* []() - 
+
 ### 
 
 #
