@@ -49,6 +49,7 @@ You take the red pill - you stay in Wonderland and I show you how deep the rabbi
 * [Timechain Calendar](https://timechaincalendar.com/) - Podsumowanie stanu sieci Bitcoin na jednym widgecie
 * []() - 
 ### 
+
 #
 ### Język angielski
 #### Książki
