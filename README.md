@@ -9,18 +9,14 @@ Stay humble. Stack sats.
 
 To jest kompendium mojej wiedzy o Bitcoinie. Zapis mojej podróży wgłąb króliczej nory, małych kroków - ciekawości, nauki i zachwytu, pokory.
 
-Tworzę tą stronę dla moje rodziny, przyjaciół, znajomych i nieznajomych oraz samego siebie. Chcę usystematyzować moje źródła, przekazać je w spójny sposób innym tak by mogli skorzystać z moich doświadczeń, w tym uniknąć moich błędów.
+Tworzę tą stronę dla moje rodziny, przyjaciół, znajomych i nieznajomych oraz samego siebie. Chcę usystematyzować moje źródła, przekazać je w spójny sposób innym, tak by mogli skorzystać z moich doświadczeń, w tym uniknąć moich błędów.
 
 Proof of work.
 
-```
-Tylko Bitcoin. Nigdy shitcoin.
-```
-
 #
-Jeżeli chcesz zrozumieć czym jest Bitcoin i jaki ma i może mieć w przyszłości wpływ na świat, nie możesz ograniczac się do śledzenia ceny. Tak robi obecnie znakomita większość osób, które są w ogóle świadome istnienia Bitcoina. Czerpią też widzę z popularnych mediów - źródła półprawdy i gównoprawdy. 
+Jeżeli chcesz zrozumieć czym jest Bitcoin i jaki ma i może mieć w przyszłości wpływ na świat, nie możesz ograniczac się do jego ceny. Tak robi obecnie znakomita większość osób, które są w ogóle świadome istnienia Bitcoina. Czerpią też widzę z popularnych mediów - źródła półprawdy i gównoprawdy. 
 
-Bitcoin nauczy Cię o matematyce, pieniądzu, makroekonomii, energetyce, historii społeczeństwa, psychologii, socjologii, komunikacji, programowaniu. To jest tak szeroki temat, że jest jak podróż wgłąd króliczej nory.
+Bitcoin nauczy Cię o matematyce, pieniądzu, makroekonomii, energetyce, historii społeczeństwa, psychologii, socjologii, komunikacji, programowaniu. To jest tak szeroki temat, że jest jak podróż wgłąb króliczej nory. Nie musisz wiedzieć wsystkiego, to też niewykonalne, ale postaraj się wiedzieć co najmniej minimum, a poza tym to jak najwięcej. Nauki, szczególnie tej użytecznej, nigdy za dużo.
 
 Mało kto to ogarnia. Chcesz wiedzieć więcej, musisz sie postarać, wykonać pracę.
 
@@ -30,23 +26,19 @@ You take the blue pill - the story ends, you wake up in your bed and believe wha
 You take the red pill - you stay in Wonderland and I show you how deep the rabbit hole goes.
                 Morpheus
 ```
-
+#
+### Moja teza na temat Bitcoina
+1. Nasz świat jest popsuty bo opiera sie na zepsutym systemie finansowym. Ten system upadnie prędzej czy później, a nowy system oparty o bitcoina ma szanse go zastąpić w jakimś zakresie. Docelowo oczekuję hybrydy gdzie bitcoin stanowi warstwę główną, a waluty dekrertowe emitowane są na jego bazie.
+2. Nie wiem kiedy to sie stanie, nie mam pewności czy sie to stanie ale widze bardzo duże prawdopodobieństwo. Co więcej, jeżeli wezmœę pod uwagę potencjalną wartość bitcoina kiedy osiągnie on pozycję waluty rezerwowej, to przy tym prawdopodobieństwie uważam, że warto poswięcić mu czas. 
+3. Mój horyzont czasowy to 50 lat. Pierwsze istotne zmiany mam nadzieję zobaczyć w ciągu 10 lat. Robię to dla moich dzieci i kolejnych pokoleń.
+4. Nie gram, oszczędzam.
+5. Uczę się. Pomagam innym.
+6. Bitcoin to nie shitcoiny.
 
 
 #
-### Ekonomia
-#### Książki
-Przeczytane
-* [Ekonomia w jednej lekcji - Henry Hazlitt](https://www.mises.sklep.pl/ksiazki/26-ekonomia-w-jednej-lekcji-oprawa-twarda.html) - Jak nazwa wskazuje. Przystępna książka tłumacząca podstawowe mechanizmy ekonomii z punktu widzenia szkoły austriackiej.
-* [Etyka produkcji pieniądza - Jörg Guido Hülsmann](https://www.mises.sklep.pl/ksiazki/39-etyka-produkcji-pieniadza-jorg-guido-hulsmann.html) - Teoria pieniądza wg szkoły austriackiej. Trudniejsza ale nadal dla ludzi.
-* []() - 
+Zestaw Minimum: Standard bitcoina + bezpieczny portfel (z backupem) + umięjętność kupowania bez KYC
 
-
-
-
-#### Podcasty
-#### Newslettery
-#### WWW
 #
 ### Bitcoin
 #### Książki
@@ -66,6 +58,18 @@ Do przeczytania
 * [Timechain Calendar](https://timechaincalendar.com/) - Podsumowanie stanu sieci Bitcoin na jednym widgecie
 
 ### 
+
+#
+### Ekonomia
+#### Książki
+Przeczytane
+* [Ekonomia w jednej lekcji - Henry Hazlitt](https://www.mises.sklep.pl/ksiazki/26-ekonomia-w-jednej-lekcji-oprawa-twarda.html) - Jak nazwa wskazuje. Przystępna książka tłumacząca podstawowe mechanizmy ekonomii z punktu widzenia szkoły austriackiej.
+* [Etyka produkcji pieniądza - Jörg Guido Hülsmann](https://www.mises.sklep.pl/ksiazki/39-etyka-produkcji-pieniadza-jorg-guido-hulsmann.html) - Teoria pieniądza wg szkoły austriackiej. Trudniejsza ale nadal dla ludzi.
+* []() - 
+
+#### Podcasty
+#### Newslettery
+#### WWW
 
 #
 ### Język angielski
